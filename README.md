@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+
+<div id="header" align="center">
+  <img src="[https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcW95M2Nwd280bHFxaThzcGt1MmxwODkyZDMxb2lkc2JvN2d2eDI5ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif)" width="100"/>
+</div>
+
 <!--
 **pavel-akulich/pavel-akulich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
