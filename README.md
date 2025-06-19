@@ -24,7 +24,7 @@
 <h2>&#128104;&#8205;&#128187; About Me</h2>
 <ul>
 <li><h4>I love to learn and immerse myself in IT technologies &#128269;&#128223;</h4></li>
-<li><h4>I speak Russian, Polish and English &#128161;&#128218;</h4></li>
+<li><h4>I speak Polish and English &#128161;&#128218;</h4></li>
 <li><h4>In my free time I do sports &#128692; and read technical articles &#128209;</h4></li>
 <li><h4>Currently based in Warsaw &#128205;&#127757;</h4></li>
 </ul>
