@@ -74,5 +74,5 @@
 <div id="stat" align="center">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pavel-akulich&theme=github_dark"/>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=pavel-akulich&theme=github_dark"/>
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=pavel-akulich&layout=compact" width="460"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=pavel-akulich&layout=compact&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&border_color=30363D" width="460"/>
 </div>
