@@ -7,9 +7,6 @@
   <a href="mailto:pavelakulich1999@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Youtube Badge"/>
   </a>
-  <a href="https://wa.me/48792028752">
-    <img src="https://img.shields.io/badge/WhatsApp-green?style=for-the-badge&logo=WhatsApp&logoColor=white" alt="Youtube Badge"/>
-  </a>
   <a href="https://t.me/pavel_akulich1">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
@@ -23,11 +20,10 @@
 <div>
 <h2>&#128104;&#8205;&#128187; About Me</h2>
 <ul>
-<li><h4>  Software engineer specializing in the development of scalable backend solutions &#128223;</h4></li>
-<li><h4>I love to learn and immerse myself in IT technologies &#128269;</h4></li>
+<li><h4>Software engineer specializing in the development of scalable backend solutions &#128223;</h4></li>
+<li><h4>My focus is on creating business value through reliable and efficient technology, balancing innovation with proven, stable practices ⚙️⚖️</h4></li>
 <li><h4>I speak Polish and English &#128161;&#128218;</h4></li>
 <li><h4>In my free time I do sports &#128692; and read technical articles &#128209;</h4></li>
-<li><h4>Currently based in Warsaw &#128205;&#127757;</h4></li>
 </ul>
 </div>
 
@@ -65,11 +61,18 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original-wordmark.svg" title="Bootstrap" width="50" height="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytest/pytest-original-wordmark.svg" title="pytest" width="50" height="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jetbrains/jetbrains-original.svg" title="JetBrains" width="50" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-plain-wordmark.svg" title="Azure" width="50" height="50"/>          
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg" title="Pandas" width="50" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/datadog/datadog-original-wordmark.svg" title="DataDog" width="50" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jenkins/jenkins-original.svg" title="Jenkins" width="50" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prometheus/prometheus-original-wordmark.svg" title="Prometheus" width="50" height="50"/>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white" title="LangChain" height="50"/>
+<img src="https://img.shields.io/badge/LangGraph-4A90E2?style=for-the-badge&logo=graphql&logoColor=white" title="LangGraph" height="50"/>
 </div>
 
 <h2>My stats</h2>
 <div id="stat" align="center">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pavel-akulich&theme=github_dark"/>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=pavel-akulich&theme=github_dark"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pavel-akulich&theme=dark&show_icons=true&hide_border=true&layout=compact" width="365"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=pavel-akulich&layout=compact" width="460"/>
 </div>
