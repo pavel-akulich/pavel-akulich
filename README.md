@@ -7,7 +7,7 @@
   <a href="mailto:pavelakulich1999@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Youtube Badge"/>
   </a>
-  <a href="https://t.me/pavel_akulich1">
+  <a href="https://t.me/akulich_pavel">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
 </div>
@@ -66,13 +66,10 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/datadog/datadog-original-wordmark.svg" title="DataDog" width="50" height="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jenkins/jenkins-original.svg" title="Jenkins" width="50" height="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prometheus/prometheus-original-wordmark.svg" title="Prometheus" width="50" height="50"/>
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white" title="LangChain" height="50"/>
-<img src="https://img.shields.io/badge/LangGraph-4A90E2?style=for-the-badge&logo=graphql&logoColor=white" title="LangGraph" height="50"/>
 </div>
 
 <h2>My stats</h2>
 <div id="stat" align="center">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pavel-akulich&theme=github_dark"/>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=pavel-akulich&theme=github_dark"/>
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=pavel-akulich&layout=compact&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&border_color=30363D" width="460"/>
 </div>
